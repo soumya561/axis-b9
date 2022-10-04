@@ -1,0 +1,2 @@
+the file is added to the local repository
+and pushed to central repository.
